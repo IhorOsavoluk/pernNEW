@@ -26,7 +26,7 @@ export default function Auth() {
         </div>
         }
         <Button className=''>
-        {isLogin ?  'Войти' : 'Региfbfgfgfgfgfстрация'}
+        {isLogin ?  'Войти' : 'Регистрация'}
         </Button>
        </Row>
       
